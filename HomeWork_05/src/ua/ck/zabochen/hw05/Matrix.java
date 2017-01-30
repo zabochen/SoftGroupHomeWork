@@ -36,7 +36,6 @@ public class Matrix {
         System.out.println("");
     }
 
-
     private void printMatrix(int[][] matrixRow) {
         for (int row = 0; row < matrixRow.length; row++) {
             for (int column = 0; column < matrixRow[row].length; column++) {
